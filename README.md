@@ -1,16 +1,36 @@
-## Hi there 👋
+# AI Learning & Coding Blog
 
-<!--
-**LoSenv/LoSenv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+This is my personal blog where I document my learning journey in programming and Artificial Intelligence.
 
-Here are some ideas to get you started:
+I use this space to record what I learn, share projects, and track my progress from beginner to AI practitioner.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## What I'm currently learning
+
+- Python fundamentals
+- Data Structures and Algorithms
+- Machine Learning basics
+
+---
+
+## Focus Areas
+
+- Python programming
+- Artificial Intelligence
+- Practical coding projects
+
+---
+
+## Goals
+
+- Build a solid programming foundation
+- Develop real-world AI projects
+- Strengthen problem-solving skills
+- Prepare for future career in AI engineering
+
+---
+
+## Blog
+
+👉 Visit my blog: https://losenv.github.io
